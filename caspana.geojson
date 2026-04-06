@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "caspana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "Name": "Chiu-Chiu" }, "geometry": { "type": "Point", "coordinates": [ -68.650499323457112, -22.34288506208161 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Name": "Caspana" }, "geometry": { "type": "Point", "coordinates": [ -68.214531915180771, -22.33336879850097 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "San Pedro" }, "geometry": { "type": "Point", "coordinates": [ -68.200510248430561, -22.911004110067367 ] } }
+]
+}
